@@ -7,7 +7,14 @@
 </style>
 
 <?php
-echo '<div class="card-Container-Pc">
+echo '
+
+<div class="card-heading-wrapper">
+    <h1>Slagelse</h1>
+    <hr class="card-heading-line">
+</div>
+
+<div class="card-Container-Pc">
     <div class="card" style="width: 140px;">
         <h5 class="card-title">Mandag</h5>
         <img src="images/sun.png" class="card-img-top" alt="Sol"><br>
