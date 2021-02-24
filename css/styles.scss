@@ -31,3 +31,77 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+
+.navbar-top{
+	width: 100%;
+	height: 90px;
+	background-color: #0C2C83;
+}
+
+.navbar-logo{
+	position: relative;
+	height: 75px;
+	width: 75px;
+	margin-left: auto;
+	margin-right: auto;
+	top: 10px;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	/* Set the fixed height of the footer here */
+	height: auto;
+	line-height: 60px; /* Vertically center the text there */
+	background-color: #0C2C83;
+}
+
+.footer-TopLinks{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 40%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.footer-BottomLinks{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 25%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.footer-logo
+{
+	height: 50px;
+	width: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+}
+
+hr.footer-line{
+	border: 1px solid white;
+}
+
+.footer-text-bottom{
+	font-size: 14px;
+}
+
+.footer-copyright
+{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 14px;
+}
+
+a{
+	text-decoration: none;
+}
