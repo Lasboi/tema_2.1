@@ -1,3 +1,4 @@
+<!-- Inkludere bootstrap og styles styling -->
 <style>
 
     <?php include "css/bootstrap.css";?>
@@ -5,6 +6,7 @@
 
 </style>
 
+<!-- Indhold til footeren -->
 <?php
 
 echo '<footer class="footer">

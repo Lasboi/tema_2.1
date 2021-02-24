@@ -28,8 +28,10 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
 
+<!-- Navigations indhold -->
 <?php include "include/navigation.php";?>
 
+<!-- Footer indhold -->
 <?php include "include/footer.php";?>
 
 <!-- Bootstrap Javascript -->
