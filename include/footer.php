@@ -9,7 +9,9 @@
 <!-- Indhold til footeren -->
 <?php
 
-echo '<footer class="footer">
+echo '
+<div class="footer-wrapper">
+<footer class="footer">
     <div class="footer-TopLinks">
         <a href="#"><p class="footer-text text-white">Nyheder</p></a>
         <a href="#"><p class="footer-text text-white">Presse & Media</p></a>
@@ -26,6 +28,7 @@ echo '<footer class="footer">
         <a href="#"><p class="footer-text-bottom text-white">Tilgængelighedserkæring</p></a>
     </div>
     <p class="footer-copyright text-white">© 2021 DMI All rights reserved</p>
-</footer>'
+</footer>
+</div>'
 
 ?>

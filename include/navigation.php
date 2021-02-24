@@ -15,6 +15,7 @@ echo '
     <img class="navbar-logo" src="images/dmi_logo.png" alt="DMI Logo"></a>
 </div>
 
+<div class="navbar-wrapper">
 <nav class="navbar navbar-expand-lg navbar-light bg-primary">
         <div class="container-fluid">
         <button class="navbar-toggler bg-white btn-outline-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -55,5 +56,6 @@ echo '
           </form>
         </div>
       </div>
-    </nav>'
+    </nav>
+    </div>'
 ?>

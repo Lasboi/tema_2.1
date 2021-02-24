@@ -48,10 +48,13 @@ img {
 	top: 10px;
 }
 
+.navbar{
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
 // Footer indhold
 .footer {
-	position: absolute;
-	bottom: 0;
 	width: 100%;
 	/* Set the fixed height of the footer here */
 	height: auto;
@@ -104,11 +107,6 @@ a{
 	text-decoration: none;
 }
 
-.navbar{
-	padding-left: 10%;
-	padding-right: 10%;
-}
-
 //Tablet version
 @media screen and (min-width: 768px) {
 
@@ -136,6 +134,28 @@ a{
 //Laptop/Desktop version
 @media screen and (min-width: 1024px) {
 
+	.navbar{
+		max-width: 1400px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.navbar-wrapper{
+		width: 100%;
+		background-color: #0C2C83;
+	}
+
+	.footer{
+		max-width: 1400px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.footer-wrapper{
+		width: 100%;
+		background-color: #0C2C83;
+	}
+
 	.footer-TopLinks{
 		display: flex;
 		flex-direction: row;
@@ -152,6 +172,54 @@ a{
 		width: 40%;
 		margin-right: auto;
 		margin-left: auto;
+	}
+
+	//Vejr Cards
+	.card-Container-Pc{
+		display: flex;
+		flex-direction: row;
+		justify-content: space-evenly;
+		width: 80%;
+		max-width: 1024px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 20px;
+	}
+
+	.card-title{
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.card-img-top{
+		width: 100px;
+		height: 100px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.card-Container-Temp{
+		display: flex;
+		flex-direction: row;
+		justify-content: space-evenly;
+		width: 80%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.card-img-bottom{
+		height: 20px;
+		width: 20px;
+	}
+
+	.card .btn{
+		height: 75px;
+	}
+
+	.card .btn span{
+		display: block;
+		padding-top: 16px;
+		font-size: 16px;
 	}
 
 }

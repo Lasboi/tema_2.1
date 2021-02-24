@@ -31,6 +31,9 @@
 <!-- Navigations indhold -->
 <?php include "include/navigation.php";?>
 
+<!-- Vejr cards indhold -->
+<?php include "include/cards.php";?>
+
 <!-- Footer indhold -->
 <?php include "include/footer.php";?>
 
