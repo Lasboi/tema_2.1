@@ -28,7 +28,7 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
 
-<div>Hej</div>
+<?php include "include/navigation.php";?>
 
 <!-- Bootstrap Javascript -->
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
