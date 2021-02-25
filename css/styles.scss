@@ -111,6 +111,28 @@ a{
 	text-decoration: none;
 }
 
+.cities-content-wrapper{
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.flex-container {
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: nowrap;
+}
+
+.city-image {
+	height: 32px;
+	width: 32px;
+}
+
+.city-image2{
+	height: 32px;
+	width: 32px;
+}
+
 //Tablet version
 @media screen and (min-width: 768px) {
 
@@ -233,5 +255,7 @@ a{
 		margin-right: auto;
 		margin-top: 20px;
 	}
+
+
 
 }

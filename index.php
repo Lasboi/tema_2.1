@@ -37,6 +37,9 @@
 <!-- Footer indhold -->
 <?php include "include/footer.php";?>
 
+<!-- Byer -->
+<?php include "include/cities.php";?>
+
 <!-- Bootstrap Javascript -->
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
