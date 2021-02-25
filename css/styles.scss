@@ -229,6 +229,18 @@ a{
 	background-color: #0C2C83;
 }
 
+//Cookies
+
+.nk-cookie-banner {
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	z-index: 999;
+	border-radius: 0px;
+	display: none;
+}
+
 //Tablet version
 @media screen and (min-width: 768px) {
 

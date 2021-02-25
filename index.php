@@ -40,7 +40,7 @@
 <!-- Vejr cards mobile indhold -->
 <?php include "include/weather-cards-mobile.php";?>
 
-<!-- Byer -->
+<!-- Byer indhold -->
 <?php include "include/cities.php";?>
 
 <!-- Weather map pc indhold -->
@@ -51,6 +51,11 @@
 
 <!-- Footer indhold -->
 <?php include "include/footer.php";?>
+
+<!-- Cookies indhold -->
+<?php include "include/cookies.php";?>
+
+<script src="scripts/cookies.js"></script>
 
 <!-- Bootstrap Javascript -->
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
