@@ -31,14 +31,26 @@
 <!-- Navigations indhold -->
 <?php include "include/navigation.php";?>
 
-<!-- Vejr cards indhold -->
-<?php include "include/cards.php";?>
+<!-- Vejr cards pc indhold -->
+<?php include "include/weather-cards-pc.php";?>
 
-<!-- Footer indhold -->
-<?php include "include/footer.php";?>
+<!-- Vejr cards tablet indhold -->
+<?php include "include/weather-cards-tablet.php";?>
+
+<!-- Vejr cards mobile indhold -->
+<?php include "include/weather-cards-mobile.php";?>
 
 <!-- Byer -->
 <?php include "include/cities.php";?>
+
+<!-- Weather map pc indhold -->
+<?php include "include/weather-map.php";?>
+
+<!-- News indhold -->
+<?php include "include/news.php";?>
+
+<!-- Footer indhold -->
+<?php include "include/footer.php";?>
 
 <!-- Bootstrap Javascript -->
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
