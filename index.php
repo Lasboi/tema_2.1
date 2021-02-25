@@ -40,7 +40,9 @@
 <!-- Vejr cards mobile indhold -->
 <?php include "include/weather-cards-mobile.php";?>
 
-<h1>Hej</h1>
+
+<!-- Weather map pc indhold -->
+<?php include "include/weather-map.php";?>
 
 
 <!-- Footer indhold -->
