@@ -40,12 +40,11 @@
 <!-- Vejr cards mobile indhold -->
 <?php include "include/weather-cards-mobile.php";?>
 
-<h1>Hej</h1>
-
+<!-- News indhold -->
+<?php include "include/news.php";?>
 
 <!-- Footer indhold -->
 <?php include "include/footer.php";?>
-
 
 <!-- Bootstrap Javascript -->
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
