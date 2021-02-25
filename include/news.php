@@ -23,40 +23,40 @@ echo '
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="images/ice.jpg" class="mx-auto d-block w-25 h-25" alt="..."> 
+          <img src="images/ice.jpg" class="mx-auto d-block w-50 h-50" alt="..."> 
           <div class="carousel-caption d-none d-md-block">
-            <h5>Februar og vinteren 20/21 indtil nu</h5>
-            <p>16 Februar 2021</p>
+            <h5 class="news-text text-black bg-white">Februar og vinteren 20/21 indtil nu</h5>
+            <p class="news-text text-black bg-white">16 Februar 2021</p>
           </div>
         </div>
         <div class="carousel-item">
-          <img src="images/ocean.jpg" class="mx-auto d-block w-25 h-25" alt="...">
+          <img src="images/ocean.jpg" class="mx-auto d-block w-50 h-50" alt="...">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Hvorfor er det så koldt?</h5>
-            <p>12 Februar 2021</p>
+            <h5 class="news-text text-black bg-white">Hvorfor er det så koldt?</h5>
+            <p class="news-text text-black bg-white">12 Februar 2021</p>
           </div>
         </div>
         <div class="carousel-item">
-          <img src="images/winter.jpg" class="mx-auto d-block w-25 h-25" alt="...">
+          <img src="images/winter.jpg" class="mx-auto d-block w-50 h-50" alt="...">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Vi har haft den koldeste nat i 9 år</h5>
-            <p>12 Februar 2021</p>
+            <h5 class="news-text text-black bg-white">Vi har haft den koldeste nat i 9 år</h5>
+            <p class="news-text text-black bg-white">12 Februar 2021</p>
           </div>
          </div>
            <div class="carousel-item">
-          <img src="images/spring.jpg" class="mx-auto d-block w-25 h-25" alt="...">
+          <img src="images/spring.jpg" class="mx-auto d-block w-50 h-50" alt="...">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Vejret bliver varmere, forår er på vej</h5>
-            <p>25 Februar 2021</p>
+            <h5 class="news-text text-black bg-white">Vejret bliver varmere, forår er på vej</h5>
+            <p class="news-text text-black bg-white">25 Februar 2021</p>
         </div>
       </div>
       <div class="carousel-item">
-          <img src="images/summer.jpg" class="mx-auto d-block w-25 h-25" alt="...">
+          <img src="images/summer.jpg" class="mx-auto d-block w-50 h-50" alt="...">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Glæd dig til sommer! 
+            <h5 class="news-text text-black bg-white">Glæd dig til sommer! 
             <br>
             Så varmt bliver det.</h5>
-            <p>19 April 2021</p>
+            <p class="news-text text-black bg-white">19 April 2021</p>
         </div>
        </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptionsNews"  data-bs-slide="prev">
