@@ -40,10 +40,11 @@
 <!-- Vejr cards mobile indhold -->
 <?php include "include/weather-cards-mobile.php";?>
 
-
 <!-- Weather map pc indhold -->
 <?php include "include/weather-map.php";?>
 
+<!-- News indhold -->
+<?php include "include/news.php";?>
 
 <!-- Footer indhold -->
 <?php include "include/footer.php";?>
