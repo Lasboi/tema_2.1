@@ -84,5 +84,6 @@ echo '
         </div><br>
         <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
     </div>
-</div><br>'
+</div><br>
+'
 ?>

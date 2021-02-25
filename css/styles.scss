@@ -111,6 +111,79 @@ a{
 	text-decoration: none;
 }
 
+
+//Fjernelse af content
+.card-Container-Pc{
+	display: none;
+}
+
+//vejr kort
+.card-title{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.card-img-top{
+	width: 100px;
+	height: 100px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.card-img-bottom{
+	height: 20px;
+	width: 20px;
+}
+
+.card .btn{
+	height: 75px;
+}
+
+.card .btn span{
+	display: block;
+	padding-top: 16px;
+	font-size: 16px;
+}
+
+.card-Container-Temp{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+//Forside carousel
+.carousel-wrapper{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.carousel-content-wrapper{
+	max-width: 1023px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.carousel-control-next{
+	width: 50px;
+	color: #0C2C83;
+	background-color: #0C2C83;
+	border: none;
+}
+
+.carousel-control-prev{
+	width: 50px;
+	color: #0C2C83;
+	background-color: #0C2C83;
+	border: none;
+}
+
 //Tablet version
 @media screen and (min-width: 768px) {
 
@@ -130,6 +203,16 @@ a{
 		width: 50%;
 		margin-right: auto;
 		margin-left: auto;
+	}
+
+	.card-Container-Pc{
+		display: none;
+	}
+
+	.card-heading-wrapper{
+		width: 80%;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 }
@@ -190,32 +273,6 @@ a{
 		margin-top: 20px;
 	}
 
-	.card-title{
-		margin-right: auto;
-		margin-left: auto;
-	}
-
-	.card-img-top{
-		width: 100px;
-		height: 100px;
-		margin-right: auto;
-		margin-left: auto;
-	}
-
-	.card-Container-Temp{
-		display: flex;
-		flex-direction: row;
-		justify-content: space-evenly;
-		width: 80%;
-		margin-left: auto;
-		margin-right: auto;
-	}
-
-	.card-img-bottom{
-		height: 20px;
-		width: 20px;
-	}
-
 	.card .btn{
 		height: 75px;
 	}
@@ -234,4 +291,10 @@ a{
 		margin-top: 20px;
 	}
 
+	.carousel-content-wrapper{
+		display: none;
+	}
+
 }
+
+
