@@ -55,6 +55,8 @@
 <!-- Cookies indhold -->
 <?php include "include/cookies.php";?>
 
+
+<!-- Cookies Javascript -->
 <script src="scripts/cookies.js"></script>
 
 <!-- Bootstrap Javascript -->

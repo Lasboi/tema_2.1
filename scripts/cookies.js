@@ -1,12 +1,11 @@
 
+    <!-- Kalder cookie banner funktionen for at vise indholdet -->
     function showCookieBanner(){
     let cookieBanner = document.getElementsByClassName("nk-cookie-banner")[0];
     cookieBanner.style.display = "block";
 }
 
-    /**
-    * Hides the Cookie banner and saves the value to localstorage
-    */
+    <!-- Skjuler cookies banner og gemmer værdien for at brugeren har trykket accept -->
     function hideCookieBanner(){
     localStorage.setItem("web_dev_isCookieAccepted", "yes");
 
@@ -14,9 +13,7 @@
     cookieBanner.style.display = "none";
 }
 
-    /**
-    * Checks the localstorage and shows Cookie banner based on it.
-    */
+    <!-- Tjekker om brugeren har accepteret cookies før og viser indholdet alt efter hvad værdi der er sat -->
     function initializeCookieBanner(){
     let isCookieAccepted = localStorage.getItem("web_dev_isCookieAccepted");
     if(isCookieAccepted === null)
@@ -30,6 +27,5 @@
 }
 }
 
-    // Assigning values to window object
     window.onload = initializeCookieBanner();
     window.nk_hideCookieBanner = hideCookieBanner;
