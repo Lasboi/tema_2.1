@@ -9,15 +9,12 @@
 <?php
 
 echo '
-<div class="weathermap-wrapper"> 
-
-<body> 
+<div class="weathermap-content-wrap"> 
 <h1> Vejrkort <h1>
 <br>
-</body>
-
 <img src="images/vejrekort.JPG" alt="Vejrkort">
 <br>
+</div>
 </div>
 
 '

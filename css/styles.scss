@@ -56,9 +56,8 @@ img {
 // Footer indhold
 .footer {
 	width: 100%;
-	/* Set the fixed height of the footer here */
 	height: auto;
-	line-height: 60px; /* Vertically center the text there */
+	line-height: 60px;
 	background-color: #0C2C83;
 }
 
@@ -196,15 +195,14 @@ a{
 	display: none;
 }
 
-.weathermap-wrapper{
-	display: block;
+.weathermap-content-wrap{
+	max-width: 1024px;
 	margin-left: auto;
 	margin-right: auto;
-	width: 50%;
 }
 
 .cities-content-wrapper{
-	width: 60%;
+	max-width: 1024px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -225,6 +223,11 @@ a{
 	width: 32px;
 }
 
+
+.footer-wrapper{
+	width: 100%;
+	background-color: #0C2C83;
+}
 
 //Tablet version
 @media screen and (min-width: 768px) {
@@ -314,14 +317,9 @@ a{
 	}
 
 	.footer{
-		max-width: 1400px;
+		width: 100%;
 		margin-right: auto;
 		margin-left: auto;
-	}
-
-	.footer-wrapper{
-		width: 100%;
-		background-color: #0C2C83;
 	}
 
 	.footer-TopLinks{
@@ -406,9 +404,8 @@ a{
 		display: none;
 	}
 	.news-wrapper{
-		width: 80%;
+		max-width: 1024px;
 		margin-left: auto;
 		margin-right: auto;
-
 	}
 }

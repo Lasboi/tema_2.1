@@ -11,6 +11,8 @@
 echo '
 
 <div class="news-wrapper">
+    <h1>Seneste nyheder</h1>
+    <hr class="card-heading-line"><br>
     <div id="carouselExampleCaptionsNews" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-indicators">
         <button type="button" data-bs-target="#carouselExampleCaptionsNews" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -67,5 +69,6 @@ echo '
       </button>
     </div>
 </div>
+</div><br>
 '
 ?>
