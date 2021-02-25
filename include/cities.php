@@ -8,7 +8,9 @@
 
 echo '
 <div class="cities-content-wrapper">
-<button type="button" class="btn btn-light">+ Tilføj by</button>
+<h1>Dine favoritter</h1>
+<hr class="card-heading-line"><br>
+<button type="button" class="btn btn-primary">+ Tilføj by</button>
 <hr class="card-heading-line">
 <div class="flex-container">
   <div><button type="button" class="btn btn-outline-danger">
