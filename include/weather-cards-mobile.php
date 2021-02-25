@@ -9,8 +9,8 @@
 <?php
 echo '
 
-<div class="carousel-content-wrapper-tablet">
-    <div id="carouselExampleControlsTablet" class="carousel slide" data-bs-ride="carousel">
+<div class="carousel-content-wrapper">
+    <div id="carouselExampleControlsMobile" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <div class="carousel-wrapper">
@@ -34,6 +34,11 @@ echo '
                         </div><br>
                         <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
                     </div>
+                </div>
+            </div>
+            
+            <div class="carousel-item">
+                <div class="carousel-wrapper">
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">Onsdag</h5>
                         <img src="images/snow.png" class="card-img-top" alt="Snevejr"><br>
@@ -56,7 +61,8 @@ echo '
                     </div>
                 </div>
             </div>
-            <div class="carousel-item">
+            
+                <div class="carousel-item">
                 <div class="carousel-wrapper">
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">Fredag</h5>
@@ -78,6 +84,10 @@ echo '
                         </div><br>
                         <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
                     </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="carousel-wrapper">
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">Søndag</h5>
                         <img src="images/sun.png" class="card-img-top" alt="Sol"><br>
@@ -90,11 +100,11 @@ echo '
                 </div>
             </div>
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsTablet"  data-bs-slide="prev">
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsMobile"  data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Previous</span>
         </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControlsTablet"  data-bs-slide="next">
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControlsMobile"  data-bs-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
         </button>

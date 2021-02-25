@@ -37,6 +37,11 @@
 <!-- Vejr cards tablet indhold -->
 <?php include "include/weather-cards-tablet.php";?>
 
+<!-- Vejr cards mobile indhold -->
+<?php include "include/weather-cards-mobile.php";?>
+
+<h1>Hej</h1>
+
 
 <!-- Footer indhold -->
 <?php include "include/footer.php";?>
