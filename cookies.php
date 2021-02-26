@@ -34,6 +34,9 @@
 <!-- Navigations indhold -->
 <?php include "include/navigation.php";?>
 
+<!-- Cookies tekst indhold -->
+<?php include "include/cookies-text.php";?>
+
 <!-- App indhold -->
 <?php include "include/app-download.php";?>
 

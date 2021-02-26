@@ -8,6 +8,14 @@
 
 <?php
 
+// Overskrift
+echo '
+<div class="card-heading-wrapper">
+    <h1>Slagelse</h1>
+    <hr class="card-heading-line">
+</div>
+';
+
 // Mobil modul
 echo '
 
@@ -210,12 +218,6 @@ echo '
 
 //pc modul
 echo '
-
-<div class="card-heading-wrapper">
-    <h1>Slagelse</h1>
-    <hr class="card-heading-line">
-</div>
-
 <div class="card-Container-Pc">
     <div class="card" style="width: 140px;">
         <h5 class="card-title">Mandag</h5>
