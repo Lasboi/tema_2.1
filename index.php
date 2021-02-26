@@ -43,6 +43,9 @@
 <!-- News indhold -->
 <?php include "include/news.php";?>
 
+<!-- App indhold -->
+<?php include "include/app-download.php";?>
+
 <!-- Footer indhold -->
 <?php include "include/footer.php";?>
 

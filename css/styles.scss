@@ -248,6 +248,38 @@ a{
 	margin-left: auto;
 }
 
+//App
+.app-content-wrapper{
+	width: 100%;
+	height: 80px;
+	background-color: black;
+}
+
+.app-content{
+	display: flex;
+	justify-content: center;
+	flex-wrap: nowrap;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 15px;
+}
+
+.app-content-text{
+	padding-right: 20px;
+	padding-top: 10px;
+}
+
+.app-content-wrapper{
+	width: 100%;
+	height: 80px;
+	background-color: black;
+}
+
+.app-content-text{
+	display: none;
+}
+
+
 //Tablet version
 @media screen and (min-width: 768px) {
 
@@ -317,6 +349,14 @@ a{
 	}
 	.carousel-content-wrapper{
 		display: none;
+	}
+
+	.app-content{
+		max-width: 1023px;
+	}
+
+	.app-content-text{
+		display: inline;
 	}
 }
 
@@ -427,4 +467,9 @@ a{
 		margin-left: auto;
 		margin-right: auto;
 	}
+
+	.app-content{
+		max-width: 1024px;
+	}
+
 }
