@@ -31,14 +31,8 @@
 <!-- Navigations indhold -->
 <?php include "include/navigation.php";?>
 
-<!-- Vejr cards pc indhold -->
-<?php include "include/weather-cards-pc.php";?>
-
-<!-- Vejr cards tablet indhold -->
-<?php include "include/weather-cards-tablet.php";?>
-
-<!-- Vejr cards mobile indhold -->
-<?php include "include/weather-cards-mobile.php";?>
+<!-- Vejr cards indhold -->
+<?php include "include/weather-cards.php";?>
 
 <!-- Byer indhold -->
 <?php include "include/cities.php";?>
