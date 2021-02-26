@@ -118,8 +118,8 @@ echo '
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
         </button>
-    </div>
-</div><br>';
+    </div><br><br><br>
+</div>';
 
 //Tablet modul
 echo '
@@ -213,8 +213,8 @@ echo '
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
         </button>
-    </div>
-</div><br>';
+    </div><br><br><br>
+</div>';
 
 //pc modul
 echo '
@@ -231,6 +231,8 @@ echo '
                         <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div>
+                        <br>
+                        <h5 class="card-title">10 m/s</h5>
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">Tirsdag</h5>
@@ -300,7 +302,7 @@ echo '
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
         </button>
-    </div>
-</div><br>
+    </div><br><br><br>
+</div>
 '
 ?>

@@ -118,8 +118,8 @@ echo '
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
         </button>
-    </div>
-</div><br>';
+    </div><br>
+</div>';
 
 //Tablet modul
 echo '
@@ -213,8 +213,8 @@ echo '
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
         </button>
-    </div>
-</div><br>';
+    </div><br>
+</div>';
 
 //pc modul
 echo '
@@ -287,7 +287,7 @@ echo '
             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
         </div><br>
         <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
-    </div>
-</div><br>
+    </div><br>
+</div>
 '
 ?>
