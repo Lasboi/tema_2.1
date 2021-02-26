@@ -32,7 +32,7 @@ echo '
                         <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div><br>
-                        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+                        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">Tirsdag</h5>
@@ -42,7 +42,7 @@ echo '
                         <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div><br>
-                        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+                        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
                     </div>
                 </div>
             </div>
@@ -57,7 +57,7 @@ echo '
                         <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div><br>
-                        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+                        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">Torsdag</h5>
@@ -67,7 +67,7 @@ echo '
                         <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div><br>
-                        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+                        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
                     </div>
                 </div>
             </div>
@@ -82,7 +82,7 @@ echo '
                         <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div><br>
-                        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+                        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">Lørdag</h5>
@@ -92,7 +92,7 @@ echo '
                         <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div><br>
-                        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+                        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
                     </div>
                 </div>
             </div>
@@ -105,7 +105,7 @@ echo '
                         <h5 class="card-title">H:19° L:14°</h5>        <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div><br>
-                        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+                        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
                     </div>
                 </div>
             </div>
@@ -137,7 +137,7 @@ echo '
                         <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div><br>
-                        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+                        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">Tirsdag</h5>
@@ -147,7 +147,7 @@ echo '
                         <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div><br>
-                        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+                        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">Onsdag</h5>
@@ -157,7 +157,7 @@ echo '
                         <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div><br>
-                        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+                        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">Torsdag</h5>
@@ -167,7 +167,7 @@ echo '
                         <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div><br>
-                        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+                        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
                     </div>
                 </div>
             </div>
@@ -181,7 +181,7 @@ echo '
                         <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div><br>
-                        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+                        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">Lørdag</h5>
@@ -191,7 +191,7 @@ echo '
                         <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div><br>
-                        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+                        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">Søndag</h5>
@@ -200,7 +200,7 @@ echo '
                         <h5 class="card-title">H:19° L:14°</h5>        <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div><br>
-                        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+                        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
                     </div>
                 </div>
             </div>
@@ -227,7 +227,7 @@ echo '
         <div class="card-Container-Temp">
             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
         </div><br>
-        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
     </div>
     <div class="card" style="width: 140px;">
         <h5 class="card-title">Tirsdag</h5>
@@ -237,7 +237,7 @@ echo '
         <div class="card-Container-Temp">
             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
         </div><br>
-        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
     </div>
     <div class="card" style="width: 140px;">
         <h5 class="card-title">Onsdag</h5>
@@ -247,7 +247,7 @@ echo '
         <div class="card-Container-Temp">
             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
         </div><br>
-        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
     </div>
     <div class="card" style="width: 140px;">
         <h5 class="card-title">Torsdag</h5>
@@ -257,7 +257,7 @@ echo '
         <div class="card-Container-Temp">
             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
         </div><br>
-        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
     </div>
     <div class="card" style="width: 140px;">
         <h5 class="card-title">Fredag</h5>
@@ -267,7 +267,7 @@ echo '
         <div class="card-Container-Temp">
             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
         </div><br>
-        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
     </div>
     <div class="card" style="width: 140px;">
         <h5 class="card-title">Lørdag</h5>
@@ -277,7 +277,7 @@ echo '
         <div class="card-Container-Temp">
             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
         </div><br>
-        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
     </div>
     <div class="card" style="width: 140px;">
         <h5 class="card-title">Søndag</h5>
@@ -286,7 +286,7 @@ echo '
         <h5 class="card-title">H:19° L:14°</h5>        <div class="card-Container-Temp">
             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
         </div><br>
-        <a href="#" class="btn btn-primary"><span>Se dagens vejr</span></a>
+        <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
     </div><br>
 </div>
 '
