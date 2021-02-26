@@ -34,6 +34,9 @@
 <!-- Navigations indhold -->
 <?php include "include/navigation.php";?>
 
+<!-- Dagens prognose indhold -->
+<?php include "include/daily-weather-cards.php";?>
+
 <!-- App indhold -->
 <?php include "include/app-download.php";?>
 
