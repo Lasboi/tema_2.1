@@ -19,7 +19,7 @@ En cookie er en lille tekst-fil, som vi gemmer på din computer for at kunne hol
 <p><b>Hjemmesidens brug af cookies</b><br>
 Hos DMI registrerer vi dine besøg ved hjælp af cookies. Dette betyder, at der bliver placeret cookies på eksempelvis din computer, når du anvender vores hjemmeside. Vi anvender cookies til at optimere vores hjemmeside på en række områder og til at forbedre din oplevelse af hjemmesiden. Eksempelvis hjælper cookies med at huske dit valg i vores kontaktformular, favorit-lokationer og din søgehistorik. Cookies gør det muligt for os og tredjeparter at følge med i bestemte dele af din navigation på DMI.dk, således at vi bl.a. bedre kan give dig information omkring vejret i dit område og målrette markedsføring, som passer til dig og dine behov.</p>
 
-<p>Brugen af cookies finder sted på grundlag af dit samtykke, som du til enhver tid kan trække tilbage ved at opdatere dine samtykke-indstillinger øverst på denne side og ved at slette cookies.</p><br> 
+<p>Brugen af cookies finder sted på grundlag af dit samtykke, som du til enhver tid kan trække tilbage ved at slette cookies.</p><br> 
 
 <p><b>Sådan afviser eller sletter du dine cookies</b><br>
 Afvisning af cookies<br>
