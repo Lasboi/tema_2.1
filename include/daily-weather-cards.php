@@ -233,33 +233,55 @@ echo '
                         </div>
                         <br>
                         <h5 class="card-title">10 m/s</h5>
+                        <img src="images/wind_right.png" class="card-img-wind" alt="Vind fra højre">
                     </div>
                     <div class="card" style="width: 140px;">
-                        <h5 class="card-title">Tirsdag</h5>
-                        <img src="images/cloud.png" class="card-img-top" alt="Skyet"><br>
+                        <h5 class="card-title">10:00</h5>
+                        <img src="images/sun.png" class="card-img-top" alt="Sol"><br>
                         <h1 class="card-title">5°</h1>
-                        <h5 class="card-title">H:7° L:3°</h5>
+                        <h5 class="card-title">H:7° L:4°</h5>
                         <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div>
+                        <br>
+                        <h5 class="card-title">11 m/s</h5>
+                        <img src="images/wind_right.png" class="card-img-wind" alt="Vind fra højre">
                     </div>
                     <div class="card" style="width: 140px;">
-                        <h5 class="card-title">Onsdag</h5>
-                        <img src="images/snow.png" class="card-img-top" alt="Snevejr"><br>
-                        <h1 class="card-title">-1°</h1>
-                        <h5 class="card-title">H:1° L:-2°</h5>
+                        <h5 class="card-title">12:00</h5>
+                        <img src="images/sun.png" class="card-img-top" alt="Sol"><br>
+                        <h1 class="card-title">9°</h1>
+                        <h5 class="card-title">H:12° L:8°</h5>
                         <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div>
+                        <br>
+                        <h5 class="card-title">7 m/s</h5>
+                        <img src="images/wind_right.png" class="card-img-wind" alt="Vind fra højre">
                     </div>
                     <div class="card" style="width: 140px;">
-                        <h5 class="card-title">Torsdag</h5>
-                        <img src="images/rain.png" class="card-img-top" alt="Regnvejr"><br>
-                        <h1 class="card-title">2°</h1>
-                        <h5 class="card-title">H:4° L:1°</h5>
+                        <h5 class="card-title">14:00</h5>
+                        <img src="images/sun.png" class="card-img-top" alt="Sol"><br>
+                        <h1 class="card-title">12°</h1>
+                        <h5 class="card-title">H:15° L:10°</h5>
                         <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div>
+                        <br>
+                        <h5 class="card-title">2 m/s</h5>
+                        <img src="images/wind_right.png" class="card-img-wind" alt="Vind fra højre">
+                    </div>
+                    <div class="card" style="width: 140px;">
+                        <h5 class="card-title">16:00</h5>
+                        <img src="images/cloud.png" class="card-img-top" alt="Sol"><br>
+                        <h1 class="card-title">8°</h1>
+                        <h5 class="card-title">H:10° L:5°</h5>
+                        <div class="card-Container-Temp">
+                            <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
+                        </div>
+                        <br>
+                        <h5 class="card-title">4 m/s</h5>
+                        <img src="images/wind_up_right.png" class="card-img-wind" alt="Vind fra højre op">
                     </div>
                 </div>
             </div>
