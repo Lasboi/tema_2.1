@@ -11,7 +11,7 @@
 
 echo '
 <div class="navbar-top">
-    <a href="#">
+    <a href="index.php">
     <img class="navbar-logo" src="images/dmi_logo.png" alt="DMI Logo"></a>
 </div>
 
