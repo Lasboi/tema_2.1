@@ -17,6 +17,9 @@
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
 
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="images/favicon.jpg"/>
+
     <!-- Sikrer man kan benytte CSS ved at tilkoble en CSS fil -->
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
@@ -30,18 +33,6 @@
 
 <!-- Navigations indhold -->
 <?php include "include/navigation.php";?>
-
-<!-- Vejr cards indhold -->
-<?php include "include/weather-cards.php";?>
-
-<!-- Byer indhold -->
-<?php include "include/cities.php";?>
-
-<!-- Weather map pc indhold -->
-<?php include "include/weather-map.php";?>
-
-<!-- News indhold -->
-<?php include "include/news.php";?>
 
 <!-- App indhold -->
 <?php include "include/app-download.php";?>
