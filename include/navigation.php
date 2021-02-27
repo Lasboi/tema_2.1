@@ -12,7 +12,7 @@
 echo '
 <div class="navbar-top">
     <a href="index.php">
-    <img class="navbar-logo" src="images/dmi_logo.png" alt="DMI Logo"></a>
+    <img class="navbar-logo" src="images/logo1_edited.png" alt="DMI Logo"></a>
 </div>
 
 <div class="navbar-wrapper">

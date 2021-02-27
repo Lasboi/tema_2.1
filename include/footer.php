@@ -22,7 +22,7 @@ echo '
             <a href="#"><p class="footer-text text-white">Kontakt</p></a>
         </div>
         <a href="#">
-            <img class="footer-logo" src="images/dmi_logo.png" alt="DMI Logo"></a>
+            <img class="footer-logo" src="images/logo1_edited.png" alt="DMI Logo"></a>
         <hr class="footer-line">
         <div class="footer-BottomLinks">
             <a href="#"><p class="footer-text-bottom text-white">Om hjemmesiden</p></a>
