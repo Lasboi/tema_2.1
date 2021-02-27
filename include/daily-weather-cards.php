@@ -327,6 +327,7 @@ echo '
 
 //pc modul
 echo '
+<div class="carousel-fixed-width">
 <div class="carousel-content-wrapper-pc">
     <div id="carouselExampleControlsPc" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
@@ -467,7 +468,16 @@ echo '
             <span class="carousel-control-next-icon bg-primary bg-primary" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
         </button>
-    </div><br><br><br>
+    </div><br>
 </div>
+</div>
+';
+
+echo '
+<div class="card-heading-wrapper">
+    <p class="dailyWeather-Text text-black">Her kan du få overblikket over dagens vejrudsigt<br>
+        Du kan få en prognose over hele dagen ved at benytte pilene i siden til at spole tiden frem og tilbage.</p>
+</div><br>
 '
+
 ?>
