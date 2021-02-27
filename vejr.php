@@ -37,6 +37,9 @@
 <!-- Dagens prognose indhold -->
 <?php include "include/daily-weather-cards.php";?>
 
+<!-- News indhold -->
+<?php include "include/news.php";?>
+
 <!-- App indhold -->
 <?php include "include/app-download.php";?>
 
