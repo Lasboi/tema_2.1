@@ -475,7 +475,7 @@ echo '
 
 echo '
 <div class="card-heading-wrapper">
-    <p class="dailyWeather-Text text-black">Her kan du få overblikket over dagens vejrudsigt.<br>
+    <p class="dailyWeather-Text">Her kan du få overblikket over dagens vejrudsigt.<br>
         Du kan få en prognose over hele dagen ved at benytte pilene i siden til at spole tiden frem og tilbage.<br><br>
         Ved at følge vores prognose kan du sikre dig at du altid er klædt på til dagens vejr!</p>
 </div><br>
@@ -489,7 +489,7 @@ echo '
 </div>
 
 <div class="card-heading-wrapper">
-    <p class="dailyWeather-Text text-black">Disse prognoser er usikre for hvordan vejret rent faktisk bliver<br> Læs mere om usikkerheden bag graferne ved at
+    <p class="dailyWeather-Text">Disse prognoser er usikre for hvordan vejret rent faktisk bliver<br> Læs mere om usikkerheden bag graferne ved at
          
          <!-- Modal link -->
 <a href="#dailyWeather" data-bs-toggle="modal" data-bs-target="#dailyWeather">
@@ -505,12 +505,12 @@ echo '
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        <p>For <strong>nedbør </strong>vises usikkerheden som lyseblå søjler&nbsp;med den mest sandsynlige værdi markeret som et mørkeblåt bånd. Du kan få de præcise værdier&nbsp;for hver time ved at føre&nbsp;musen over eller berøre touch-skærmen.</p><br>
-        <p>For <strong>temperatur </strong>og <strong>vind </strong>vises usikkerheden som grafer, der viser intervallet for de sandsynlige værdier. Midt i grafen viser en kurve&nbsp;den&nbsp;mest sandsynlige temperatur eller vind.&nbsp;Du kan få de præcise værdier&nbsp;for hver time ved at føre&nbsp;musen over eller berøre touch-skærmen.</p><br>
+        <p class="dailyWeather-Text">For <strong>nedbør </strong>vises usikkerheden som lyseblå søjler&nbsp;med den mest sandsynlige værdi markeret som et mørkeblåt bånd. Du kan få de præcise værdier&nbsp;for hver time ved at føre&nbsp;musen over eller berøre touch-skærmen.</p><br>
+        <p class="dailyWeather-Text">For <strong>temperatur </strong>og <strong>vind </strong>vises usikkerheden som grafer, der viser intervallet for de sandsynlige værdier. Midt i grafen viser en kurve&nbsp;den&nbsp;mest sandsynlige temperatur eller vind.&nbsp;Du kan få de præcise værdier&nbsp;for hver time ved at føre&nbsp;musen over eller berøre touch-skærmen.</p><br>
         <h2>Usikkerheden er et værktøj</h2><br>
-        <p>Vejrprognoser bliver aldrig helt sikre. Derfor er usikkerhed et redskab til at bedømme både den mest sandsynlige og den mest ekstreme udvikling af vejret.</p><br>
-        <p>Usikkerheden udregnes ved at køre vejrmodellerne mange gange med lidt forskellige udgangspunkter, der tager hensyn til usikkerheder forbundet med målingerne af det aktuelle vejr.</p><br>
-        <p>Pakken af vejrmodelkørsler - kaldet et ensemble - giver et billede af, hvilke udviklinger, der er sandsynlige, og hvilke som er mindre sandsynlige. Hvis kørslerne viser en stor variation, er det normalt et udtryk for at vejrsituationen er vanskelig at forudsige.</p>
+        <p class="dailyWeather-Text">Vejrprognoser bliver aldrig helt sikre. Derfor er usikkerhed et redskab til at bedømme både den mest sandsynlige og den mest ekstreme udvikling af vejret.</p><br>
+        <p class="dailyWeather-Text">Usikkerheden udregnes ved at køre vejrmodellerne mange gange med lidt forskellige udgangspunkter, der tager hensyn til usikkerheder forbundet med målingerne af det aktuelle vejr.</p><br>
+        <p class="dailyWeather-Text">Pakken af vejrmodelkørsler - kaldet et ensemble - giver et billede af, hvilke udviklinger, der er sandsynlige, og hvilke som er mindre sandsynlige. Hvis kørslerne viser en stor variation, er det normalt et udtryk for at vejrsituationen er vanskelig at forudsige.</p>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Forstået!</button>
