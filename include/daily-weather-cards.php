@@ -475,8 +475,9 @@ echo '
 
 echo '
 <div class="card-heading-wrapper">
-    <p class="dailyWeather-Text text-black">Her kan du få overblikket over dagens vejrudsigt<br>
-        Du kan få en prognose over hele dagen ved at benytte pilene i siden til at spole tiden frem og tilbage.</p>
+    <p class="dailyWeather-Text text-black">Her kan du få overblikket over dagens vejrudsigt.<br>
+        Du kan få en prognose over hele dagen ved at benytte pilene i siden til at spole tiden frem og tilbage.<br><br>
+        Ved at følge vores prognose kan du sikre dig at du altid er klædt på til dagens vejr!</p>
 </div><br>
 '
 
