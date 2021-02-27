@@ -288,40 +288,74 @@ echo '
             <div class="carousel-item">
                 <div class="carousel-wrapper">
                     <div class="card" style="width: 140px;">
-                        <h5 class="card-title">Fredag</h5>
-                        <img src="images/thunder.png" class="card-img-top" alt="Torden"><br>
-                        <h1 class="card-title">4°</h1>
-                        <h5 class="card-title">H:7° L:2°</h5>
+                        <h5 class="card-title">8:00</h5>
+                        <img src="images/cloud.png" class="card-img-top" alt="Sol"><br>
+                        <h1 class="card-title">2°</h1>
+                        <h5 class="card-title">H:4° L:0°</h5>
                         <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div>
+                        <br>
+                        <h5 class="card-title">5 m/s</h5>
+                        <img src="images/wind_right.png" class="card-img-wind" alt="Vind fra højre">
                     </div>
                     <div class="card" style="width: 140px;">
-                        <h5 class="card-title">Lørdag</h5>
+                        <h5 class="card-title">10:00</h5>
                         <img src="images/sun.png" class="card-img-top" alt="Sol"><br>
-                        <h1 class="card-title">10°</h1>
-                        <h5 class="card-title">H:12° L:6°</h5>
+                        <h1 class="card-title">5°</h1>
+                        <h5 class="card-title">H:7° L:4°</h5>
                         <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div>
+                        <br>
+                        <h5 class="card-title">11 m/s</h5>
+                        <img src="images/wind_right.png" class="card-img-wind" alt="Vind fra højre">
                     </div>
                     <div class="card" style="width: 140px;">
-                        <h5 class="card-title">Søndag</h5>
+                        <h5 class="card-title">12:00</h5>
                         <img src="images/sun.png" class="card-img-top" alt="Sol"><br>
-                        <h1 class="card-title">16°</h1>
-                        <h5 class="card-title">H:19° L:14°</h5>        <div class="card-Container-Temp">
+                        <h1 class="card-title">9°</h1>
+                        <h5 class="card-title">H:12° L:8°</h5>
+                        <div class="card-Container-Temp">
                             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
                         </div>
+                        <br>
+                        <h5 class="card-title">7 m/s</h5>
+                        <img src="images/wind_right.png" class="card-img-wind" alt="Vind fra højre">
+                    </div>
+                    <div class="card" style="width: 140px;">
+                        <h5 class="card-title">14:00</h5>
+                        <img src="images/sun.png" class="card-img-top" alt="Sol"><br>
+                        <h1 class="card-title">12°</h1>
+                        <h5 class="card-title">H:15° L:10°</h5>
+                        <div class="card-Container-Temp">
+                            <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
+                        </div>
+                        <br>
+                        <h5 class="card-title">2 m/s</h5>
+                        <img src="images/wind_right.png" class="card-img-wind" alt="Vind fra højre">
+                    </div>
+                    <div class="card" style="width: 140px;">
+                        <h5 class="card-title">16:00</h5>
+                        <img src="images/cloud.png" class="card-img-top" alt="Sol"><br>
+                        <h1 class="card-title">8°</h1>
+                        <h5 class="card-title">H:10° L:5°</h5>
+                        <div class="card-Container-Temp">
+                            <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
+                        </div>
+                        <br>
+                        <h5 class="card-title">4 m/s</h5>
+                        <img src="images/wind_up_right.png" class="card-img-wind" alt="Vind fra højre op">
                     </div>
                 </div>
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsPc"  data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="carousel-control-prev-icon bg-primary" aria-hidden="true"></span>
             <span class="visually-hidden">Previous</span>
         </button>
         <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControlsPc"  data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="carousel-control-next-icon bg-primary" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
         </button>
     </div><br><br><br>
