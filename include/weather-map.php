@@ -9,7 +9,7 @@
 <?php
 
 echo '
-<div class="weathermap-content-wrap"> 
+<div class="weathermap-content-wrap" id="weatherMap"> 
 <h1> Vejrkort <h1>
 <hr class="card-heading-line">
 <br>

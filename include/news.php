@@ -10,7 +10,7 @@
 <?php
 echo '
 
-<div class="news-wrapper">
+<div class="news-wrapper" id="news">
     <h1>Seneste nyheder</h1>
     <hr class="card-heading-line"><br>
     <div id="carouselExampleCaptionsNews" class="carousel slide" data-bs-ride="carousel">
