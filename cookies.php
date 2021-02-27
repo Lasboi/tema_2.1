@@ -18,7 +18,7 @@
     <meta name="copyright" content="Information om copyright">
 
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="images/favicon.jpg"/>
+    <link rel="icon" type="image/png" href="images/favicon_edited.jpg"/>
 
     <!-- Sikrer man kan benytte CSS ved at tilkoble en CSS fil -->
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
