@@ -10,7 +10,7 @@ echo '
 <div class="cities-content-wrapper">
 <h1>Dine favoritter</h1>
 <hr class="card-heading-line"><br>
-<button type="button" class="btn btn-primary">+ Tilføj by</button>
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#addTown">+ Tilføj by</button>
 <hr class="card-heading-line">
 <div class="flex-container">
   <div><button type="button" class="btn btn-outline-danger">
@@ -50,7 +50,29 @@ echo '
 </div>
 <br><br>
 </div>
+';
 
-
+echo '
+<!-- Modal -->
+<div class="modal fade" id="addTown" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Tilføj din by</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+             <form class="d-flex">
+            <input class="form-control me-2" type="search" placeholder="Søg efter en by..." aria-label="Search">
+            <button class="btn btn-dark text-white" type="submit">Søg</button>
+          </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Luk</button>
+        <button type="button" class="btn btn-primary">Tilføj by</button>
+      </div>
+    </div>
+  </div>
+</div>
 '
 ?>

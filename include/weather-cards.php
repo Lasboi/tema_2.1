@@ -287,7 +287,7 @@ echo '
             <img src="images/red_arrow_up.png" class="card-img-bottom" alt="Højeste"><img src="images/blue_arrow_down.png" class="card-img-bottom" alt="Laveste">
         </div><br>
         <a href="vejr.php" class="btn btn-primary"><span>Se dagens vejr</span></a>
-    </div><br>
-</div>
+    </div>
+</div><br>
 '
 ?>
