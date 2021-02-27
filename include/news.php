@@ -68,6 +68,9 @@ echo '
         <span class="visually-hidden">Next</span>
       </button>
     </div>
+</div><br>
+<div class="col text-center">
+<a class="btn btn-primary btn-lg" href="#" role="button">Se alle nyheder</a>
 </div>
 </div><br>
 '
