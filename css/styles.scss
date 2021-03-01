@@ -320,6 +320,13 @@ a{
 	margin-right: auto;
 }
 
+//All News
+.allNews-content-wrap{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
 //Tablet version
 @media screen and (min-width: 768px) {
 
@@ -540,6 +547,10 @@ a{
 	.dailyWeather-Image{
 		width: 1024px;
 		height: 299px;
+	}
+
+	.allNews-content-wrap{
+		max-width: 1024px;
 	}
 
 }

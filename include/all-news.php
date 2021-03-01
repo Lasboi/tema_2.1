@@ -8,4 +8,14 @@
 
 <?php
 
+echo '
+<br>
+<div class="allNews-content-wrap" id="weatherMap"> 
+    <h1> Alle nyheder <h1>
+    <hr class="card-heading-line">
+    <br>
+</div>
+
+'
+
 ?>
