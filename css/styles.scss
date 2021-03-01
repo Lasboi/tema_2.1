@@ -320,6 +320,23 @@ a{
 	margin-right: auto;
 }
 
+//Varsler
+.advarsel1{
+	margin-left: auto;
+	margin-right: auto;
+}
+.advarsel2{
+	margin-left: auto;
+	margin-right: auto;
+}
+.advarsel3{
+	margin-left: auto;
+	margin-right: auto;
+}
+.advarsel4{
+	margin-left: auto;
+	margin-right: auto;
+}
 //Tablet version
 @media screen and (min-width: 768px) {
 
@@ -542,4 +559,39 @@ a{
 		height: 299px;
 	}
 
+	.varsel-info{
+		padding: 20px;
+	}
+
+	.varsel-info2{
+		padding: 100px;
+	}
+	.advarsel1 {
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.advarsel2 {
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.advarsel3 {
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.advarsel4 {
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.varsel-overskrift {
+		margin-left: 20px;
+		margin-top: 30px;
+	}
+	.varsel-overskrift2{
+		margin-left: 20px;
+		margin-top: 30px;
+	}
 }
