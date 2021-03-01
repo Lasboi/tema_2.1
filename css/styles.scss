@@ -319,7 +319,14 @@ a{
 	margin-left: auto;
 	margin-right: auto;
 }
+//Marts Nyheder
+.Marts-info{
+	padding: 20px;
+}
 
+.varsel-overskrift{
+	padding: 20px;
+}
 //Varsler
 .advarsel1{
 	margin-left: auto;
@@ -662,6 +669,15 @@ a{
 	}
 	.varsel-info2{
 		display: none;
+	}
+
+	//Nyheder-marts måned/
+
+	.Marts-info{
+		padding: 20px;
+	}
+	Marts-info2{
+		padding: 20px;
 	}
 
 }
