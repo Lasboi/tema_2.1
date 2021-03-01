@@ -337,6 +337,11 @@ a{
 	margin-left: auto;
 	margin-right: auto;
 }
+
+.varsel-info{
+	display: none;
+}
+
 //Wrapper for alt content
 .mainContent-content-wrap{
 	width: 80%;
@@ -650,6 +655,13 @@ a{
 
 	.news-Card-Text{
 		font-size: 16px !important;
+	}
+
+	.varsel-info{
+		display: inline;
+	}
+	.varsel-info2{
+		display: none;
 	}
 
 }

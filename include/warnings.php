@@ -8,6 +8,7 @@
 
 <?php echo '
 
+<div class="mainContent-content-wrap">
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item active" aria-current="page">Varsler</li>
@@ -20,6 +21,7 @@
     <li class="breadcrumb-item active" aria-current="page">Varsler</li>
   </ol>
 </nav>
+
 
 <div class="varsel-overskrift">
         <p class="fs-2">Aktuelle varsler</p
@@ -50,8 +52,12 @@
         omgivelser og forstyrre samfundets funktioner. Følg vejrudviklingen på dmi.dk.</p></div>
   </div>
 </div>
-<br><br>';echo '
+</div>
+<br><br>';
 
+echo '
+
+<div class="mainContent-content-wrap">
 <div class="varsel-info2">
   <div class="row row-cols-2">
     <div class="col"><img src="images/!.jpg" class="advarsel1" alt="advarsel1" width="80" height="80">
@@ -70,6 +76,8 @@
          <p class="fs-6 text-center">Følg myndighedernes råd. Vær forberedt på, at der er høj risiko for, at vejrudviklingen kan påvirke dig og dine 
         omgivelser og forstyrre samfundets funktioner. Følg vejrudviklingen på dmi.dk.</p></div>
   </div>
-</div><br><br>'
+</div>
+</div>
+<br><br>'
 
 ?>
