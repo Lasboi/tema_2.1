@@ -11,11 +11,6 @@
 echo '
 <div class="cookies-content-wrapper">
 <div class="mainContent-content-wrap">
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item active" aria-current="page">Cookies</li>
-  </ol>
-</nav>
 
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">

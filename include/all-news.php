@@ -11,11 +11,6 @@
 echo '
 <br>
 <div class="mainContent-content-wrap">
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item active" aria-current="page">Nyheder</li>
-  </ol>
-</nav>
 
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">

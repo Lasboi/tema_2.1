@@ -9,11 +9,7 @@
 <?php echo '
 
 <div class="mainContent-content-wrap">
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item active" aria-current="page">Varsler</li>
-  </ol>
-</nav>
+<br>
 
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
