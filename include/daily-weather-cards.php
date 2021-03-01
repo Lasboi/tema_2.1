@@ -209,7 +209,7 @@ echo '
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">10:00</h5>
-                        <img src="../images/sun1.png" class="card-img-top" alt="Sol"><br>
+                        <img src="images/sun1.png" class="card-img-top" alt="Sol"><br>
                         <h1 class="card-title">5°</h1>
                         <h5 class="card-title">H:7° L:4°</h5>
                         <div class="card-Container-Temp">

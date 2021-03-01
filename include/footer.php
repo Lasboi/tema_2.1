@@ -21,7 +21,7 @@ echo '
             <a href="#"><p class="footer-text text-white">Om DMI</p></a>
             <a href="#"><p class="footer-text text-white">Kontakt</p></a>
         </div>
-        <a href="#">
+        <a href="index.php">
             <img class="footer-logo" src="images/logo1_edited.png" alt="DMI Logo"></a>
         <hr class="footer-line">
         <div class="footer-BottomLinks">
