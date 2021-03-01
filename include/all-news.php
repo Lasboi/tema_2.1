@@ -36,7 +36,7 @@ echo '
             <p class="news-Card-Text">Marts nærmer sig med hastige skridt, og kalendervinteren er ved at være slut...</p>
           </div>
           <div class="card-footer">
-            <a class="btn btn-allNews btn-primary" href="nyheder.php" role="button"><span >Læs mere her</span></a>
+            <a class="btn btn-allNews btn-primary" href="nyhed-1.php" role="button"><span >Læs mere her</span></a>
           </div>
         </div>
       </div>
@@ -49,7 +49,7 @@ echo '
             <p class="news-Card-Text">Iskolde polare vinde har fået et solidt tag i Danmark, og vinteren er for alvor...</p>
           </div>
           <div class="card-footer">
-            <a class="btn btn-allNews btn-primary" href="nyheder.php" role="button"><span >Læs mere her</span></a>
+            <a class="btn btn-allNews btn-primary" href="nyhed-1.php" role="button"><span >Læs mere her</span></a>
           </div>
         </div>
       </div>
@@ -62,7 +62,7 @@ echo '
             <p class="news-Card-Text">Kold polarluft har fundet vej til landet, og natten til fredag blev den koldeste...</p>
           </div>
           <div class="card-footer">
-            <a class="btn btn-allNews btn-primary" href="nyheder.php" role="button"><span >Læs mere her</span></a>
+            <a class="btn btn-allNews btn-primary" href="nyhed-1.php" role="button"><span >Læs mere her</span></a>
           </div>
         </div>
       </div>
@@ -79,7 +79,7 @@ echo '
             <p class="news-Card-Text">Milde ’forårsvinde’ fra syd har sendt pollentallene på himmelfart, og mængden af elle-pollen...</p>
           </div>
           <div class="card-footer">
-            <a class="btn btn-allNews btn-primary" href="nyheder.php" role="button"><span >Læs mere her</span></a>
+            <a class="btn btn-allNews btn-primary" href="nyhed-1.php" role="button"><span >Læs mere her</span></a>
           </div>
         </div>
       </div>
@@ -92,7 +92,7 @@ echo '
             <p class="news-Card-Text">Hvor koldt er det, hvor længe har det været koldt, og hvor meget blæser det? Vejret er...</p>
           </div>
           <div class="card-footer">
-            <a class="btn btn-allNews btn-primary" href="nyheder.php" role="button"><span >Læs mere her</span></a>
+            <a class="btn btn-allNews btn-primary" href="nyhed-1.php" role="button"><span >Læs mere her</span></a>
           </div>
         </div>
       </div>
@@ -105,7 +105,7 @@ echo '
             <p class="news-Card-Text">Den danske vinter svinger ofte omkring frysepunktet, hvilket gør, at vi ofte døjer med...</p>
           </div>
           <div class="card-footer">
-            <a class="btn btn-allNews btn-primary" href="nyheder.php" role="button"><span >Læs mere her</span></a>
+            <a class="btn btn-allNews btn-primary" href="nyhed-1.php" role="button"><span >Læs mere her</span></a>
           </div>
         </div>
       </div>
