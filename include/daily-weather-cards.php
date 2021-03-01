@@ -135,7 +135,7 @@ echo '
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">22:00</h5>
-                        <img src="images/thunder.png" class="card-img-top" alt="Torden"><br>
+                        <img src="images/thunder1.png" class="card-img-top" alt="Torden"><br>
                         <h1 class="card-title">2°</h1>
                         <h5 class="card-title">H:3° L:1°</h5>
                         <div class="card-Container-Temp">
@@ -151,7 +151,7 @@ echo '
                 <div class="carousel-wrapper">
                 <div class="card" style="width: 140px;">
                         <h5 class="card-title">00:00</h5>
-                        <img src="images/thunder.png" class="card-img-top" alt="Torden"><br>
+                        <img src="images/thunder1.png" class="card-img-top" alt="Torden"><br>
                         <h1 class="card-title">3°</h1>
                         <h5 class="card-title">H:5° L:2°</h5>
                         <div class="card-Container-Temp">
@@ -285,7 +285,7 @@ echo '
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">22:00</h5>
-                        <img src="images/thunder.png" class="card-img-top" alt="Torden"><br>
+                        <img src="images/thunder1.png" class="card-img-top" alt="Torden"><br>
                         <h1 class="card-title">2°</h1>
                         <h5 class="card-title">H:3° L:1°</h5>
                         <div class="card-Container-Temp">
@@ -301,7 +301,7 @@ echo '
             <div class="carousel-wrapper">
                 <div class="card" style="width: 140px;">
                         <h5 class="card-title">00:00</h5>
-                        <img src="images/thunder.png" class="card-img-top" alt="Torden"><br>
+                        <img src="images/thunder1.png" class="card-img-top" alt="Torden"><br>
                         <h1 class="card-title">3°</h1>
                         <h5 class="card-title">H:5° L:2°</h5>
                         <div class="card-Container-Temp">
@@ -435,7 +435,7 @@ echo '
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">22:00</h5>
-                        <img src="images/thunder.png" class="card-img-top" alt="Torden"><br>
+                        <img src="images/thunder1.png" class="card-img-top" alt="Torden"><br>
                         <h1 class="card-title">2°</h1>
                         <h5 class="card-title">H:3° L:1°</h5>
                         <div class="card-Container-Temp">
@@ -447,7 +447,7 @@ echo '
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">00:00</h5>
-                        <img src="images/thunder.png" class="card-img-top" alt="Torden"><br>
+                        <img src="images/thunder1.png" class="card-img-top" alt="Torden"><br>
                         <h1 class="card-title">3°</h1>
                         <h5 class="card-title">H:5° L:2°</h5>
                         <div class="card-Container-Temp">
