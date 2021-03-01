@@ -12,7 +12,6 @@
 echo '
 <br>
 <div class="card-heading-wrapper">
-<div class="mainContent-content-wrap">
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item active" aria-current="page">Vejret</li>
@@ -40,7 +39,7 @@ echo '
                 <div class="carousel-wrapper">
                    <div class="card" style="width: 140px;">
                         <h5 class="card-title">8:00</h5>
-                        <img src="images/sun.png" class="card-img-top" alt="Sol"><br>
+                        <img src="images/sun1.png" class="card-img-top" alt="Sol"><br>
                         <h1 class="card-title">3°</h1>
                         <h5 class="card-title">H:4° L:1°</h5>
                         <div class="card-Container-Temp">
@@ -52,7 +51,7 @@ echo '
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">10:00</h5>
-                        <img src="images/sun.png" class="card-img-top" alt="Sol"><br>
+                        <img src="images/sun1.png" class="card-img-top" alt="Sol"><br>
                         <h1 class="card-title">5°</h1>
                         <h5 class="card-title">H:7° L:4°</h5>
                         <div class="card-Container-Temp">
@@ -68,7 +67,7 @@ echo '
                 <div class="carousel-wrapper">
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">12:00</h5>
-                        <img src="images/sun.png" class="card-img-top" alt="Sol"><br>
+                        <img src="images/sun1.png" class="card-img-top" alt="Sol"><br>
                         <h1 class="card-title">9°</h1>
                         <h5 class="card-title">H:12° L:8°</h5>
                         <div class="card-Container-Temp">
@@ -80,7 +79,7 @@ echo '
                     </div>
                         <div class="card" style="width: 140px;">
                         <h5 class="card-title">14:00</h5>
-                        <img src="images/sun.png" class="card-img-top" alt="Sol"><br>
+                        <img src="../images/sun1.png" class="card-img-top" alt="Sol"><br>
                         <h1 class="card-title">12°</h1>
                         <h5 class="card-title">H:15° L:10°</h5>
                         <div class="card-Container-Temp">
@@ -198,7 +197,7 @@ echo '
                 <div class="carousel-wrapper">
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">8:00</h5>
-                        <img src="images/sun.png" class="card-img-top" alt="Sol"><br>
+                        <img src="images/sun1.png" class="card-img-top" alt="Sol"><br>
                         <h1 class="card-title">3°</h1>
                         <h5 class="card-title">H:4° L:1°</h5>
                         <div class="card-Container-Temp">
@@ -210,7 +209,7 @@ echo '
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">10:00</h5>
-                        <img src="images/sun.png" class="card-img-top" alt="Sol"><br>
+                        <img src="../images/sun1.png" class="card-img-top" alt="Sol"><br>
                         <h1 class="card-title">5°</h1>
                         <h5 class="card-title">H:7° L:4°</h5>
                         <div class="card-Container-Temp">
@@ -222,7 +221,7 @@ echo '
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">12:00</h5>
-                        <img src="images/sun.png" class="card-img-top" alt="Sol"><br>
+                        <img src="images/sun1.png" class="card-img-top" alt="Sol"><br>
                         <h1 class="card-title">9°</h1>
                         <h5 class="card-title">H:12° L:8°</h5>
                         <div class="card-Container-Temp">
@@ -234,7 +233,7 @@ echo '
                     </div>
                         <div class="card" style="width: 140px;">
                         <h5 class="card-title">14:00</h5>
-                        <img src="images/sun.png" class="card-img-top" alt="Sol"><br>
+                        <img src="images/sun1.png" class="card-img-top" alt="Sol"><br>
                         <h1 class="card-title">12°</h1>
                         <h5 class="card-title">H:15° L:10°</h5>
                         <div class="card-Container-Temp">
@@ -348,7 +347,7 @@ echo '
                 <div class="carousel-wrapper">
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">8:00</h5>
-                        <img src="images/sun.png" class="card-img-top" alt="Sol"><br>
+                        <img src="images/sun1.png" class="card-img-top" alt="Sol"><br>
                         <h1 class="card-title">3°</h1>
                         <h5 class="card-title">H:4° L:1°</h5>
                         <div class="card-Container-Temp">
@@ -360,7 +359,7 @@ echo '
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">10:00</h5>
-                        <img src="images/sun.png" class="card-img-top" alt="Sol"><br>
+                        <img src="images/sun1.png" class="card-img-top" alt="Sol"><br>
                         <h1 class="card-title">5°</h1>
                         <h5 class="card-title">H:7° L:4°</h5>
                         <div class="card-Container-Temp">
@@ -372,7 +371,7 @@ echo '
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">12:00</h5>
-                        <img src="images/sun.png" class="card-img-top" alt="Sol"><br>
+                        <img src="images/sun1.png" class="card-img-top" alt="Sol"><br>
                         <h1 class="card-title">9°</h1>
                         <h5 class="card-title">H:12° L:8°</h5>
                         <div class="card-Container-Temp">
@@ -384,7 +383,7 @@ echo '
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">14:00</h5>
-                        <img src="images/sun.png" class="card-img-top" alt="Sol"><br>
+                        <img src="images/sun1.png" class="card-img-top" alt="Sol"><br>
                         <h1 class="card-title">12°</h1>
                         <h5 class="card-title">H:15° L:10°</h5>
                         <div class="card-Container-Temp">

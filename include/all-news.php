@@ -10,7 +10,6 @@
 
 echo '
 <br>
-<div class="mainContent-content-wrap" id="weatherMap">
 <div class="mainContent-content-wrap">
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">

@@ -18,7 +18,7 @@ echo '
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-heart-fill" viewBox="0 0 16 16">
                 <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314z"></path></svg></button></div>
   <div><div class="d-flex p-2 bd-highlight">Slagelse</div></div>
-  <div><img src="images/sun.png" class="city-image" alt="Sol"></div>  
+  <div><img src="images/sun1.png" class="city-image" alt="Sol"></div>  
   <div><p class="fs-6">9°/6°</p></div>
   <div>0 mm</div>
   <div>4 m/s</div>  
@@ -43,7 +43,7 @@ echo '
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-heart-fill" viewBox="0 0 16 16">
                 <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314z"></path></svg></button></div>
   <div><div class="d-flex p-2 bd-highlight">Korsør</div></div>
-  <div><img src="images/sun.png" class="city-image" alt="sol"></div>  
+  <div><img src="images/sun1.png" class="city-image" alt="sol"></div>  
   <div><p class="fs-6">9°/6°</p></div>
   <div>0 mm</div>
   <div>3 m/s</div>  
