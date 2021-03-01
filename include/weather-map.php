@@ -9,6 +9,7 @@
 <?php
 
 echo '
+<div class="mainContent-content-wrap">
 <div class="weathermap-content-wrap" id="weatherMap"> 
 <h1> Vejrkort <h1>
 <hr class="card-heading-line">
@@ -17,7 +18,7 @@ echo '
 <br>
 </div>
 </div>
-
+</div>
 '
 
 ?>
