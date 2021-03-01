@@ -31,7 +31,7 @@ echo '
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-heart-fill" viewBox="0 0 16 16">
                 <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314z"></path></svg></button></div>
   <div><div class="d-flex p-2 bd-highlight">Vemmelev</div></div>
-  <div><img src="images/cloud.png" class="city-image2" alt="sky"></div>  
+  <div><img src="images/cloud1.png" class="city-image2" alt="sky"></div>  
   <div><p class="fs-6">9°/6°</p></div>
   <div>1 mm</div>
   <div>5 m/s</div>  

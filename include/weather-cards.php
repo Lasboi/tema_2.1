@@ -36,7 +36,7 @@ echo '
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">Tirsdag</h5>
-                        <img src="images/cloud.png" class="card-img-top" alt="Skyet"><br>
+                        <img src="images/cloud1.png" class="card-img-top" alt="Skyet"><br>
                         <h1 class="card-title">5°</h1>
                         <h5 class="card-title">H:7° L:3°</h5>
                         <div class="card-Container-Temp">
@@ -61,7 +61,7 @@ echo '
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">Torsdag</h5>
-                        <img src="images/rain.png" class="card-img-top" alt="Regnvejr"><br>
+                        <img src="images/rain1.png" class="card-img-top" alt="Regnvejr"><br>
                         <h1 class="card-title">2°</h1>
                         <h5 class="card-title">H:4° L:1°</h5>
                         <div class="card-Container-Temp">
@@ -141,7 +141,7 @@ echo '
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">Tirsdag</h5>
-                        <img src="images/cloud.png" class="card-img-top" alt="Skyet"><br>
+                        <img src="images/cloud1.png" class="card-img-top" alt="Skyet"><br>
                         <h1 class="card-title">5°</h1>
                         <h5 class="card-title">H:7° L:3°</h5>
                         <div class="card-Container-Temp">
@@ -161,7 +161,7 @@ echo '
                     </div>
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">Torsdag</h5>
-                        <img src="images/rain.png" class="card-img-top" alt="Regnvejr"><br>
+                        <img src="images/rain1.png" class="card-img-top" alt="Regnvejr"><br>
                         <h1 class="card-title">2°</h1>
                         <h5 class="card-title">H:4° L:1°</h5>
                         <div class="card-Container-Temp">
@@ -231,7 +231,7 @@ echo '
     </div>
     <div class="card" style="width: 140px;">
         <h5 class="card-title">Tirsdag</h5>
-        <img src="images/cloud.png" class="card-img-top" alt="Skyet"><br>
+        <img src="images/cloud1.png" class="card-img-top" alt="Skyet"><br>
         <h1 class="card-title">5°</h1>
         <h5 class="card-title">H:7° L:3°</h5>
         <div class="card-Container-Temp">
@@ -251,7 +251,7 @@ echo '
     </div>
     <div class="card" style="width: 140px;">
         <h5 class="card-title">Torsdag</h5>
-        <img src="images/rain.png" class="card-img-top" alt="Regnvejr"><br>
+        <img src="images/rain1.png" class="card-img-top" alt="Regnvejr"><br>
         <h1 class="card-title">2°</h1>
         <h5 class="card-title">H:4° L:1°</h5>
         <div class="card-Container-Temp">
