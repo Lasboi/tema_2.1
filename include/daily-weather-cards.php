@@ -12,6 +12,19 @@
 echo '
 <br>
 <div class="card-heading-wrapper">
+<div class="mainContent-content-wrap">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item active" aria-current="page">Vejret</li>
+  </ol>
+</nav>
+
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="index.php">Forside</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Vejret</li>
+  </ol>
+</nav>
     <h1>Dagens prognose</h1>
     <hr class="card-heading-line"><br>
 </div>
