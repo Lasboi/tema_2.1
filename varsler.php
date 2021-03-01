@@ -37,6 +37,9 @@
 <!-- Warnings indhold -->
 <?php include "include/warnings.php";?>
 
+<!-- News indhold -->
+<?php include "include/news.php";?>
+
 <!-- App indhold -->
 <?php include "include/app-download.php";?>
 
