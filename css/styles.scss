@@ -320,8 +320,8 @@ a{
 	margin-right: auto;
 }
 
-//All News
-.allNews-content-wrap{
+//Wrapper for alt content
+.mainContent-content-wrap{
 	width: 80%;
 	margin-right: auto;
 	margin-left: auto;
@@ -404,6 +404,10 @@ a{
 
 	.app-content-text{
 		display: inline;
+	}
+
+	.mainContent-content-wrap{
+		max-width: 1023px;
 	}
 }
 
@@ -549,7 +553,7 @@ a{
 		height: 299px;
 	}
 
-	.allNews-content-wrap{
+	.mainContent-content-wrap{
 		max-width: 1024px;
 	}
 

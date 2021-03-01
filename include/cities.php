@@ -7,6 +7,7 @@
 <?php
 
 echo '
+<div class="mainContent-content-wrap">
 <div class="cities-content-wrapper">
 <h1>Dine favoritter</h1>
 <hr class="card-heading-line"><br>
@@ -50,10 +51,12 @@ echo '
 </div>
 <br><br>
 </div>
+</div>
 ';
 
 echo '
 <!-- Modal -->
+<div class="mainContent-content-wrap">
 <div class="modal fade" id="addTown" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -73,6 +76,7 @@ echo '
       </div>
     </div>
   </div>
+</div>
 </div>
 '
 ?>
