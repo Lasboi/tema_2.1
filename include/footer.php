@@ -15,7 +15,7 @@ echo '
 <div class="footer-wrapper">
     <footer class="footer">
         <div class="footer-TopLinks">
-            <a href="#"><p class="footer-text text-white">Nyheder</p></a>
+            <a href="news.php"><p class="footer-text text-white">Nyheder</p></a>
             <a href="#"><p class="footer-text text-white">Presse & Media</p></a>
             <a href="#"><p class="footer-text text-white">Job & Karriere</p></a>
             <a href="#"><p class="footer-text text-white">Om DMI</p></a>
