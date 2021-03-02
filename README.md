@@ -1,5 +1,3 @@
-# tema_2.1
-
 <h1>Redesign DMI</h1>
 
 <p>Denne hjemmeside er lavet i et semesterprojekt, hvor vores opgave er at redesigne DMI's hjemmeside. <br>
