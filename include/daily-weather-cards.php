@@ -12,11 +12,6 @@
 echo '
 <br>
 <div class="card-heading-wrapper">
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item active" aria-current="page">Vejret</li>
-  </ol>
-</nav>
 
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">

@@ -20,13 +20,13 @@
 
 
 <div class="varsel-overskrift">
-        <p class="fs-2">Aktuelle varsler</p
-        <hr class="card-heading-line"><br>
+        <p class="fs-2">Aktuelle varsler</p>
+                <hr class="card-heading-line"><br>
         <p class="fs-5">Ingen aktuelle varsler</p>
 </div><br><br>
 
 <div class="varsel-overskrift2">
-        <p class="fs-2">Varsler de næste 2-5 dage</p
+        <p class="fs-2">Varsler de næste 2-5 dage</p>
         <p class="fs-5">DMI forventer ikke voldsomt vejr.</p>
 </div><br>
 
