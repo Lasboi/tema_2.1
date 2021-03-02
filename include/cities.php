@@ -19,10 +19,10 @@ echo '
                 <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314z"></path></svg></button></div>
   <div><div class="d-flex p-2 bd-highlight">Slagelse</div></div>
   <div><img src="images/sun1.png" class="city-image" alt="Sol"></div>  
-  <div><p class="fs-6">9°/6°</p></div>
-  <div>0 mm</div>
-  <div>4 m/s</div>  
-  <div>UV max 1,2</div>
+  <p class="city-text-content"> 9°/6°</p>
+  <p class="city-text-content">0 mm</p>
+  <p class="city-text-content">4 m/s</p>  
+  <p class="city-text-content">UV max 1,2</p>
   </div>
 <hr class="card-heading-line">
 
@@ -32,10 +32,10 @@ echo '
                 <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314z"></path></svg></button></div>
   <div><div class="d-flex p-2 bd-highlight">Vemmelev</div></div>
   <div><img src="images/cloud1.png" class="city-image2" alt="sky"></div>  
-  <div><p class="fs-6">9°/6°</p></div>
-  <div>1 mm</div>
-  <div>5 m/s</div>  
-  <div>UV max 1,4</div>
+  <p class="city-text-content">9°/6°</p>
+  <p class="city-text-content">1 mm</p>
+  <p class="city-text-content">5 m/s</p>  
+  <p class="city-text-content">UV max 1,4</p>
   </div>
 <hr class="card-heading-line">
 <div class="flex-container">
@@ -44,10 +44,10 @@ echo '
                 <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314z"></path></svg></button></div>
   <div><div class="d-flex p-2 bd-highlight">Korsør</div></div>
   <div><img src="images/sun1.png" class="city-image" alt="sol"></div>  
-  <div><p class="fs-6">9°/6°</p></div>
-  <div>0 mm</div>
-  <div>3 m/s</div>  
-  <div>UV max 1,4</div>
+  <p class="city-text-content">9°/6°</p>
+  <p class="city-text-content">0 mm</p>
+  <p class="city-text-content">3 m/s</p>  
+  <p class="city-text-content">UV max 1,4</p>
 </div>
 <br><br>
 </div>

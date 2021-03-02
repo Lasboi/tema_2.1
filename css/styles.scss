@@ -305,6 +305,10 @@ a{
 	display: none;
 }
 
+.city-text-content{
+	font-size: x-small;
+}
+
 //Text
 .dailyWeather-Text{
 	font-size: 16px;
@@ -321,6 +325,10 @@ a{
 }
 //Marts Nyheder
 .Marts-info{
+	padding: 20px;
+}
+
+.Marts-info2{
 	padding: 20px;
 }
 
@@ -676,6 +684,7 @@ a{
 	.Marts-info{
 		padding: 20px;
 	}
+
 	Marts-info2{
 		padding: 20px;
 	}
