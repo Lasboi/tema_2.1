@@ -129,8 +129,8 @@ a{
 }
 
 .card-img-top{
-	width: 65px;
-	height: 65px;
+	width: 65px !important;
+	height: 65px !important;
 	margin-right: auto;
 	margin-left: auto;
 }
@@ -382,6 +382,11 @@ a{
 .news-Card-Text{
 	min-height: 85px;
 	max-height: 85px;
+}
+
+.allNews-img-top{
+	width: 100% !important;
+	height: 30% !important;
 }
 
 //Tablet version
