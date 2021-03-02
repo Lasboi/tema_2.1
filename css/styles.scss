@@ -9,27 +9,35 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 	padding: 0;
+	font-family: Roboto, sans-serif !important;
 }
 
 ul, ol {
 	margin: 2px 10px 2px 10px;
 	padding: 0;
 	list-style-position: inside;
+	font-family: Roboto, sans-serif !important;
 }
 
 li {
 	margin: 0;
+	font-family: Roboto, sans-serif !important;
 }
 
 p {
 	margin: 0;
 	padding: 0;
+	font-family: Roboto, sans-serif !important;
 }
 
 img {
 	display: block;
 	max-width: 100%;
 	height: auto;
+}
+
+.btn{
+	font-family: Roboto, sans-serif !important;
 }
 
 //Navigations indhold
