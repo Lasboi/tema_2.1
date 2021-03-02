@@ -21,6 +21,7 @@
 
 <div class="varsel-overskrift">
         <p class="fs-2">Aktuelle varsler</p
+        <hr class="card-heading-line"><br>
         <p class="fs-5">Ingen aktuelle varsler</p>
 </div><br><br>
 
