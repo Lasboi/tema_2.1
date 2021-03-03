@@ -1,10 +1,6 @@
-<!-- Inkludere bootstrap og styles styling -->
-<style>
+<!-- Denne del af koden er lavet af Isabella -->
 
-    <?php include "css/bootstrap.css";?>
-    <?php include "css/styles.css";?>
-
-</style>
+<!-- Nyheds informations side -->
 
 <?php
 
