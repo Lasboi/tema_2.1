@@ -1,10 +1,5 @@
-<!-- Inkludere bootstrap og styles styling -->
-<style>
+<!-- Denne del af koden er lavet af Lasse -->
 
-<?php include "css/bootstrap.css";?>
-<?php include "css/styles.css";?>
-
-</style>
 
 <!-- Indhold til navigationen -->
 <?php
