@@ -1,3 +1,29 @@
+/*        Table of contents     **
+**********************************
+**  01 - Global Styling         **
+**  02 - Navigation             **
+**  03 - Footer                 **
+**  04 - Removal                **
+**  05 - Vejr kort              **
+**  06 - Carousel               **
+**  07 - Wraps                  **
+**  08 - Cities                 **
+**  09 - Cookies                **
+**  10 - Nyheder                **
+**  11 - App                    **
+**  12 - Dagens Prognose        **
+**  13 - Varsler                **
+**  14 - Tablet version         **
+**  15 - PC version             **
+**********************************
+ */
+
+/*
+****************************
+*** 01 - Global Styling  ***
+****************************
+*/
+
 * {
 	box-sizing: border-box;
 }
@@ -40,6 +66,17 @@ img {
 	font-family: Roboto, sans-serif !important;
 }
 
+a{
+	text-decoration: none;
+}
+
+
+/*
+****************************
+***   02 - Navigation    ***
+****************************
+*/
+
 //Navigations indhold
 .navbar-top{
 	width: 100%;
@@ -60,6 +97,12 @@ img {
 	padding-left: 10%;
 	padding-right: 10%;
 }
+
+/*
+****************************
+***     03 - Footer      ***
+****************************
+*/
 
 // Footer indhold
 .footer {
@@ -114,10 +157,11 @@ hr.card-heading-line{
 	font-size: 14px;
 }
 
-a{
-	text-decoration: none;
-}
-
+/*
+****************************
+***    04 - Removal      ***
+****************************
+*/
 
 //Fjernelse af content
 .card-Container-Pc{
@@ -128,7 +172,23 @@ a{
 	display: none;
 }
 
+.carousel-content-wrapper-tablet{
+	display: none;
+}
 
+.app-content-text{
+	display: none;
+}
+
+.varsel-info{
+	display: none;
+}
+
+/*
+****************************
+***   05 - Vejr kort     ***
+****************************
+*/
 
 //vejr kort
 .card-title{
@@ -174,6 +234,54 @@ a{
 	margin-right: auto;
 }
 
+
+/*
+****************************
+***   06 - Carousel      ***
+****************************
+*/
+
+//Forside carousel
+.carousel-control-next{
+	width: 25px;
+	color: #1f73ba;
+	background-color: #1f73ba;
+	border: none;
+}
+
+.carousel-control-prev{
+	width: 25px;
+	color: #1f73ba;
+	background-color: #1f73ba;
+	border: none;
+}
+
+.carousel-control-next{
+	background-color: white;
+}
+
+.carousel-control-prev{
+	background-color: white;
+}
+
+/*
+****************************
+***     07 - Wraps      ***
+****************************
+*/
+
+.weathermap-content-wrap{
+	max-width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.cities-content-wrapper{
+	max-width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .card-heading-wrapper{
 	width: 80%;
 	margin-left: auto;
@@ -187,7 +295,6 @@ a{
 	margin-right: auto;
 }
 
-//Forside carousel
 .carousel-wrapper{
 	display: flex;
 	flex-direction: row;
@@ -203,44 +310,30 @@ a{
 	margin-right: auto;
 }
 
-.carousel-control-next{
-	width: 25px;
-	color: #1f73ba;
+.footer-wrapper{
+	width: 100%;
 	background-color: #1f73ba;
-	border: none;
 }
 
-.carousel-control-prev{
-	width: 25px;
-	color: #1f73ba;
-	background-color: #1f73ba;
-	border: none;
+.app-content-wrapper{
+	width: 100%;
+	height: 80px;
+	background-color: black;
 }
 
-.carousel-content-wrapper-tablet{
-	display: none;
-}
-
-.carousel-control-next{
-	background-color: white;
-}
-
-.carousel-control-prev{
-	background-color: white;
-}
-
-.weathermap-content-wrap{
-	max-width: 1024px;
-	margin-left: auto;
+//Wrapper for alt content
+.mainContent-content-wrap{
+	width: 80%;
 	margin-right: auto;
-}
-
-.cities-content-wrapper{
-	max-width: 1024px;
 	margin-left: auto;
-	margin-right: auto;
 }
 
+
+/*
+****************************
+***     08 - Cities      ***
+****************************
+*/
 .flex-container {
 	display: flex;
 	justify-content: space-around;
@@ -257,12 +350,16 @@ a{
 	width: 32px;
 }
 
-
-.footer-wrapper{
-	width: 100%;
-	background-color: #1f73ba;
+.city-text-content{
+	font-size: x-small;
 }
 
+
+/*
+****************************
+***    09 - Cookies      ***
+****************************
+*/
 //Cookies
 
 .nk-cookie-banner {
@@ -275,96 +372,15 @@ a{
 	display: none;
 }
 
+/*
+****************************
+***    10 - Nyheder      ***
+****************************
+*/
+
 //News
 .news-text{
 	width: 65%;
-	margin-right: auto;
-	margin-left: auto;
-}
-
-//App
-.app-content-wrapper{
-	width: 100%;
-	height: 80px;
-	background-color: black;
-}
-
-.app-content{
-	display: flex;
-	justify-content: center;
-	flex-wrap: nowrap;
-	margin-left: auto;
-	margin-right: auto;
-	padding-top: 15px;
-}
-
-.app-content-text{
-	padding-right: 20px;
-	padding-top: 10px;
-}
-
-.app-content-wrapper{
-	width: 100%;
-	height: 80px;
-	background-color: black;
-}
-
-.app-content-text{
-	display: none;
-}
-
-.city-text-content{
-	font-size: x-small;
-}
-
-//Text
-.dailyWeather-Text{
-	font-size: 16px;
-	font-family: Roboto, sans-serif;
-
-}
-
-//Daily Weather
-.dailyWeather-Image{
-	width: 80%;
-	height: auto;
-	margin-left: auto;
-	margin-right: auto;
-}
-//Marts Nyheder
-.Marts-info{
-	padding: 20px;
-}
-
-.Marts-info2{
-	padding: 20px;
-}
-
-//Varsler
-.advarsel1{
-	margin-left: auto;
-	margin-right: auto;
-}
-.advarsel2{
-	margin-left: auto;
-	margin-right: auto;
-}
-.advarsel3{
-	margin-left: auto;
-	margin-right: auto;
-}
-.advarsel4{
-	margin-left: auto;
-	margin-right: auto;
-}
-
-.varsel-info{
-	display: none;
-}
-
-//Wrapper for alt content
-.mainContent-content-wrap{
-	width: 80%;
 	margin-right: auto;
 	margin-left: auto;
 }
@@ -393,6 +409,90 @@ a{
 	width: 100% !important;
 	height: 30% !important;
 }
+
+//Marts Nyheder
+.Marts-info{
+	padding: 20px;
+}
+
+.Marts-info2{
+	padding: 20px;
+}
+
+/*
+****************************
+***    11 - App          ***
+****************************
+*/
+
+//App
+.app-content{
+	display: flex;
+	justify-content: center;
+	flex-wrap: nowrap;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 15px;
+}
+
+.app-content-text{
+	padding-right: 20px;
+	padding-top: 10px;
+}
+
+
+/*
+****************************
+*** 12 - Dagens Prognose ***
+****************************
+*/
+
+//Text
+.dailyWeather-Text{
+	font-size: 16px;
+	font-family: Roboto, sans-serif;
+
+}
+
+//Daily Weather
+.dailyWeather-Image{
+	width: 80%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+/*
+****************************
+***    13 - Varsler      ***
+****************************
+*/
+
+//Varsler
+.advarsel1{
+	margin-left: auto;
+	margin-right: auto;
+}
+.advarsel2{
+	margin-left: auto;
+	margin-right: auto;
+}
+.advarsel3{
+	margin-left: auto;
+	margin-right: auto;
+}
+.advarsel4{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+/*
+****************************
+*** 14 - Tablet version  ***
+****************************
+*/
 
 //Tablet version
 @media screen and (min-width: 768px) {
@@ -492,6 +592,12 @@ a{
 	}
 }
 
+
+/*
+****************************
+***   15 - PC version    ***
+****************************
+*/
 
 //Laptop/Desktop version
 @media screen and (min-width: 1024px) {
