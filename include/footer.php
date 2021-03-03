@@ -1,17 +1,12 @@
-<!-- Inkludere bootstrap og styles styling -->
-<style>
+<!-- Denne del er lavet af Lasse -->
 
-    <?php include "css/bootstrap.css";?>
-    <?php include "css/styles.css";?>
-
-</style>
 
 <!-- Indhold til footeren -->
 <?php
 
 echo '
 
-<div class="footer-test-wrapper">
+<div class="footer-content-wrapper">
 <div class="footer-wrapper">
     <footer class="footer">
         <div class="footer-TopLinks">
