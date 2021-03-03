@@ -1,3 +1,5 @@
+<!-- Denne del af koden er lavet af Lasse -->
+
 <!-- Instruktion til webbrowser om at vi kører HTML5 -->
 <!DOCTYPE html>
 
@@ -14,8 +16,8 @@
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
-    <meta name="author" content="Udgiver">
-    <meta name="copyright" content="Information om copyright">
+    <meta name="author" content="Lasse, Isabella, Kaya & Jessika">
+    <meta name="copyright" content="Copyright Lasse">
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="images/favicon_edited.jpg"/>
