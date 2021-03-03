@@ -1,10 +1,6 @@
-<!-- Inkludere bootstrap og styles styling -->
-<style>
+<!-- Denne del er lavet af Kaya og script + knapper lavet af Lasse -->
 
-    <?php include "css/bootstrap.css";?>
-    <?php include "css/styles.css";?>
-
-</style>
+<!-- Vejr kort sektion -->
 
 <?php
 
@@ -14,6 +10,7 @@ echo '
 <h1> Vejrkort <h1>
 <hr class="card-heading-line">
 
+<!-- Kanpper hvor man kan skifte vejr kort -->
 <button class="btn btn-primary" type="button" onclick="ShowTemp()">Vejr</button>&nbsp;&nbsp;
 <button class="btn btn-primary" type="button" onclick="ShowAir()">Vind</button>&nbsp;&nbsp;
 <button class="btn btn-primary" type="button" onclick="ShowWaves()">Bølger</button>
@@ -23,6 +20,7 @@ echo '
 </div>
 </div>
 
+<!-- Script som giver funktion til vejrkortet så det kan skifte -->
 <script src="scripts/toogleMap.js"></script>
 '
 
