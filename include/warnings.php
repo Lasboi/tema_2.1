@@ -7,6 +7,7 @@
 <div class="mainContent-content-wrap">
 <br>
 
+<!-- Brødkrumme linksti-->
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="index.php">Forside</a></li>
