@@ -9,6 +9,7 @@ echo '
 <br>
 <div class="card-heading-wrapper">
 
+<!-- Brødkrumme linksti -->
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="index.php">Forside</a></li>
@@ -23,11 +24,14 @@ echo '
 // Mobil modul
 echo '
 
+<!-- Carousel -->
 <div class="carousel-content-wrapper">
     <div id="carouselExampleControlsMobile" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <div class="carousel-wrapper">
+                
+                    <!-- Vejr kort-->
                    <div class="card" style="width: 140px;">
                         <h5 class="card-title">8:00</h5>
                         <img src="images/sun1.png" class="card-img-top" alt="Sol"><br>
