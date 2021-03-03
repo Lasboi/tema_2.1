@@ -1,3 +1,7 @@
+<!-- Denne del er lavet af Lasse -->
+
+<!-- Script som kan ændre vejrkort -->
+
 function ShowTemp()
 {
     document.getElementById("image").src = "images/vejrekort.JPG";
