@@ -1,10 +1,4 @@
-<!-- Inkludere bootstrap og styles styling -->
-<style>
-
-    <?php include "css/bootstrap.css";?>
-    <?php include "css/styles.css";?>
-
-</style>
+<!-- Alle nyheder sektionen -->
 
 <?php
 
@@ -12,12 +6,15 @@ echo '
 <br>
 <div class="mainContent-content-wrap">
 
+<!-- Brødkrumme linksti -->
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="index.php">Forside</a></li>
     <li class="breadcrumb-item active" aria-current="page">Nyheder</li>
   </ol>
-</nav> 
+</nav>
+
+<!-- Kort opsætning af nyhederne --> 
     <h1> Alle nyheder <h1>
     <hr class="card-heading-line">
     <br>
