@@ -8,12 +8,14 @@ echo '
 <div class="cookies-content-wrapper">
 <div class="mainContent-content-wrap">
 
+<!-- Brødkrumme linksti-->
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="index.php">Forside</a></li>
     <li class="breadcrumb-item active" aria-current="page">Cookies</li>
   </ol>
 </nav>
+
     <h1>Brug af cookies på DMI</h1>
     <hr class="card-heading-line"><br>
 
