@@ -1,11 +1,6 @@
+<!-- Denne del af koden er lavet af Jessika og rettet til af Lasse -->
 
-<!-- Inkludere bootstrap og styles styling -->
-<style>
-
-    <?php include "css/bootstrap.css";?>
-    <?php include "css/styles.css";?>
-
-</style>
+<!-- Nyheds Carousel sektion -->
 
 <?php
 echo '
