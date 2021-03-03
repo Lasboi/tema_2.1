@@ -1,10 +1,6 @@
-<!-- Inkludere bootstrap og styles styling -->
-<style>
+<!-- Denne del er lavet af Lasse -->
 
-    <?php include "css/bootstrap.css";?>
-    <?php include "css/styles.css";?>
-
-</style>
+<!-- Cookies tekst sektion -->
 
 <?php
 
