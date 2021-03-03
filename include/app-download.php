@@ -1,3 +1,5 @@
+<!-- Denne del af koden er lavet af Lasse -->
+
 <!-- Download app sektion -->
 <?php
 

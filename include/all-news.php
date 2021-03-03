@@ -1,3 +1,5 @@
+<!-- Denne del af koden er lavet af Lasse -->
+
 <!-- Alle nyheder sektionen -->
 
 <?php

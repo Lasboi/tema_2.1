@@ -1,9 +1,6 @@
-<!-- Inkludere bootstrap og styles styling -->
-<style>
-    <?php include "css/bootstrap.css";?>
-    <?php include "css/styles.css";?>
-</style>
+<!-- Denne del af koden er lavet af Isabella & Lasse -->
 
+<!-- Dine favoritter sektion -->
 <?php
 
 echo '
@@ -11,6 +8,8 @@ echo '
 <div class="cities-content-wrapper">
 <h1>Dine favoritter</h1>
 <hr class="card-heading-line"><br>
+
+<!-- Kanp til at tilføje en by -->
 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#addTown">+ Tilføj by</button>
 <hr class="card-heading-line">
 <div class="flex-container">
@@ -55,7 +54,7 @@ echo '
 ';
 
 echo '
-<!-- Modal -->
+<!-- Modal popup når man trykker på tilføj by knap -->
 <div class="mainContent-content-wrap">
 <div class="modal fade" id="addTown" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
