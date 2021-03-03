@@ -1,3 +1,6 @@
+<!-- Denne del er lavet af Lasse -->
+
+<!-- Cookies popup script -->
 
     <!-- Kalder cookie banner funktionen for at vise indholdet -->
     function showCookieBanner(){
