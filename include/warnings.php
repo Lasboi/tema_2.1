@@ -1,10 +1,6 @@
-<!-- Inkludere bootstrap og styles styling -->
-<style>
+<!-- Denne del af koden er lavet af Isabella -->
 
-    <?php include "css/bootstrap.css";?>
-    <?php include "css/styles.css";?>
-
-</style>
+<!-- Varsler sektion -->
 
 <?php echo '
 
@@ -30,6 +26,7 @@
         <p class="fs-5">DMI forventer ikke voldsomt vejr.</p>
 </div><br>
 
+<!-- Pc modul -->
 <div class="varsel-info">
   <div class="row row-cols-4">
     <div class="col"><img src="images/!.jpg" class="advarsel1" alt="advarsel1" width="80" height="80">
@@ -54,6 +51,7 @@
 
 echo '
 
+<!-- Tablet/Mobil sektion -->
 <div class="mainContent-content-wrap">
 <div class="varsel-info2">
   <div class="row row-cols-2">
