@@ -1,10 +1,6 @@
-<!-- Inkludere bootstrap og styles styling -->
-<style>
+<!-- Denne del af koden er lavet af Lasse -->
 
-    <?php include "css/bootstrap.css";?>
-    <?php include "css/styles.css";?>
-
-</style>
+<!-- Forside vejr kort sektion -->
 
 <?php
 
@@ -20,10 +16,14 @@ echo '
 echo '
 
 <div class="carousel-content-wrapper">
+
+    <!-- Carousel modul -->
     <div id="carouselExampleControlsMobile" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <div class="carousel-wrapper">
+                    
+                    <!-- Vejr kort -->
                     <div class="card" style="width: 140px;">
                         <h5 class="card-title">Mandag</h5>
                         <img src="images/sun1.png" class="card-img-top" alt="Sol"><br>
